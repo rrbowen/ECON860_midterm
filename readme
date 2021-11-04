@@ -1,0 +1,28 @@
+Readme files
+
+First file
+userid_request.py
+captures the web page with the user names
+
+Second file
+userid_parse.py
+This file grabs the webpage download and uses Beautiful Soup to parse it.
+"userid_rows" contains each userid from the webpage
+At this point the program uses basic python to strip the first 26 elements,
+	and then has a variable to remove the elements after the user id.
+"
+
+Third File
+Github_api_v6.py
+Token and username are concealed from github 
+This program works
+
+The results
+github_download2.csv
+
+
+Token and Username
+To hide the information
+
+Userid_list.csv has the userids
+
